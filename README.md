@@ -1,6 +1,9 @@
 Hash Cracker
 by TurkishDARKHacker
 
+USAGE:
+
+
 $ git clone https://github.com/userxray/HashCracker.git
 
 
