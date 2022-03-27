@@ -10,7 +10,7 @@ USAGE:
 $ git clone https://github.com/userxray/HashCracker.git
 
 
-$ cd Hasher
+$ cd HashCracker
 
 
 $ chmod +x Hasher.py
