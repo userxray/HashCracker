@@ -3,6 +3,7 @@ Hash Cracker
 by TurkishDARKHacker
 
 
+
 USAGE:
 
 
